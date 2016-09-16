@@ -1,0 +1,28 @@
+75 points
+
+Delroy,
+
+- Good job in creating your accounts!
+
+- Good job in setting up your java compiler in "your system"?
+
+- Good job with your first GitHub submission!
+
+- Good organization of your repository! :)
+
+However,
+
+- The evidence of setting up the java compiler (javac) in your system is
+  suspicious. It says it was installed in "Donna"'s system.
+
+- Please be careful in following instructions in the future.
+
+- A little header or cover page with your name, class, assignment, date, etc.
+  is always good to have in any assignment of this type.
+
+- Please staple all your assignments as necessary.
+
+
+Peace,
+
+- Dr. Pablo Rivas
