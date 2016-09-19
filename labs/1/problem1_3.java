@@ -12,6 +12,7 @@
 public class problem1_3 {
   public static void main(String[] args) {
     System.out.println("    J    A   V     V  A");
+    // you are using tabs!!!
 	System.out.println("    J    AA   V   V   AA");
 	System.out.println("  J J   AAAA   V V   AAAA");
 	System.out.println("   JJ   A   A   V   A    A");

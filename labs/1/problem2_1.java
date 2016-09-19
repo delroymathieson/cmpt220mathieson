@@ -8,12 +8,14 @@
  * 
  * This file converts celsius to fahrenheit.
  */
+// == incorrect indentation
  import java.util.Scanner;
 public class problem2_1 {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
 	
     System.out.println("Enter a degree in Celsius: ");
+    // == you are using tabs!!!
 	double c = input.nextDouble();
 	
 	double f = ((9.0/5.0) * c + 32.0);

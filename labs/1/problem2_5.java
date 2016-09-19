@@ -8,11 +8,13 @@
  * 
  * This file calculate tips.
  */
+// == incorrect indentation
  import java.util.Scanner;
 public class problem2_5 {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
 	
+    // == you are using tabs!!!
 	double gratuityRate ;
 	double totalTips;
 	double total;
@@ -23,7 +25,7 @@ public class problem2_5 {
 	System.out.println(" Enter Subtotal: ");
 	subtotal = input.nextDouble();
 	
-	
+    // == this formula is wrong
 	totalTips = (gratuityRate / 100);
 	total = subtotal + totalTips;
 	

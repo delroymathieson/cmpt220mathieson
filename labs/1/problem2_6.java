@@ -8,11 +8,13 @@
  * 
  * This file sums the digits in an integer
  */
+// == incorrect indentation
  import java.util.Scanner;
 public class problem2_6 {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
 	
+    // == you are using tabs!!!
 	System.out.println(" Enter a number between 0 and 1000: ");
 	
 	int number = input.nextInt();

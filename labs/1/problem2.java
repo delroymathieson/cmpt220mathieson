@@ -8,11 +8,13 @@
  * 
  * This file calculates grade percentage
  */
+// == incorrect indentation
  import java.util.Scanner;
 public class problem2 {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
 	
+    // == you are using tabs!!!
 	System.out.println(" Please enter the following as a percentage.... ");
 	
 	System.out.println(" Midterm Exam: ");
