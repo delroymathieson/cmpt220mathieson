@@ -17,7 +17,7 @@ public class Problem12_3{
     int[] array = new int[size];
     for(int i = 0; i < size; i++){
 	  array[i] = 1 + (int)(Math.random() * 100);
-	}
+    }
     
     System.out.println("Enter the index of the array: ");
     int index = input.nextInt();
